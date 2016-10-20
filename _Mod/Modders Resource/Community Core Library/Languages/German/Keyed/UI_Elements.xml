@@ -38,7 +38,7 @@
     <BadLoadOrder>Etwas stimmt mit der Reihenfolge der Mods nicht.\n\nCommunity Core Library ist nicht die zweite Mod in der Liste. Wähle 'Jetzt neu starten' in diesem Menu aus, um RimWorld neu zu starten.</BadLoadOrder>
     <WarnAboutRestart>Eine größere Änderung wurde an den Spieldaten vorgenommen, wie zum Beispiel Mods oder die Sprache.\n\nRimWorld sollte nue gestartet werden.\n\nWeiterspielen ohne Neustart ann alle möglichen Probleme verursachen!.</WarnAboutRestart>
     <ReallyWarnAboutRestart>Du spielst wirlich gern mit dem Feuer.\n\nEin Neustart ist dringend Empfohlen!.</ReallyWarnAboutRestart>
-    <WarnAboutRestartDebug>Du solltest das Spiel neu starten, nachdem Spieldaten geändert wurdne.\n\nAls  modder wusstest du das aber, stimmts?</WarnAboutRestartDebug>
+    <WarnAboutRestartDebug>Du solltest das Spiel neu starten, nachdem Spieldaten geändert wurden.\n\nAls Modder wusstest du das aber, stimmts?</WarnAboutRestartDebug>
     <ContinueWithoutRestart>Ohne Neustart spielen</ContinueWithoutRestart>
     <RestartLater>Später</RestartLater>
     <RestartNow>Jetzt neu starten</RestartNow>
